@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(38, 151, 185);
+}
+
+#id-general{
+    width:  800px;
+    height: 800px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#id1{
+    display: flex;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+
+#p1{
+    margin-right: 537px;
+    font-weight: bold;
+}
+
+#p2{
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+#p3{
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+#p4{
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+#p5{
+    font-weight: bold;
+    
+}
+
+#p6{
+    padding-left: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+#p7{
+    padding-left: 50px;
+    font-weight: bold;
+    
+}
+
+#p8{
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+#p9{
+    padding-left: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+#p10{
+    padding-left: 50px;
+    font-weight: bold;
+    isplay: flex;
+    ustify-content: space-between;
+}
+
+#p11{
+    padding-left: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+#span1{
+    font-weight: normal;
+    margin-right: 30px;
+}
+
+#span2{
+    margin-left: 265px;
+    font-weight: normal;
+}
+
+#span3{
+
+    margin-left: 224px;
+    font-weight: normal;
+}
+
+#span4{
+ 
+    margin-left: 350px;
+    font-weight: normal;
+    margin-right: 30px;
+}
+
+#span5{
+    margin-left: 420px;
+    font-weight: normal;
+    margin-right: 10px;
+}
+
+#span6{
+
+    margin-left: 300px;
+    font-weight: normal;
+    margin-right: 30px;
+}
+
+.footer{
+    border-top: 1px solid black;
+}
+
+#id2{
+    margin-bottom: 400px;
+}
